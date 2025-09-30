@@ -1,19 +1,20 @@
-# 👋 Hola, soy Yordy Aquiles (serforin0)
+# 👋 Hola, soy Yordy Peña (serforin0)
 
-💻 **Full Stack Developer** con más de 5 años de experiencia en desarrollo de aplicaciones empresariales.  
-🚀 Apasionado por **Java, PHP, Node.js, Flutter y React Native**.  
-🌎 Busco proyectos remotos donde pueda aportar valor con soluciones escalables y de calidad.  
+💻 **Senior Mobile Developer | Full Stack Developer** con más de **10 años de experiencia** construyendo aplicaciones de alto impacto para Android e iOS con **Flutter, React Native, Swift y Java**.  
+🚀 Experto en **UI/UX, integración de APIs, features en tiempo real y cloud computing (AWS, Azure)**.  
+📱 He desarrollado aplicaciones que alcanzaron miles de usuarios y mejoraron el rendimiento de negocios hasta en un **40%**.  
 
 ---
 
 ## 🧰 Tecnologías & Herramientas
 
-- **Lenguajes:** Java, PHP 8, JavaScript (ES6+), TypeScript, Python, SQL  
-- **Frameworks & Librerías:** Spring Boot, Hibernate, Laravel, React, React Native, Flutter, PrimeFaces  
-- **Bases de datos:** MySQL, PostgreSQL, Oracle, MongoDB  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure  
-- **Testing:** JUnit, PHPUnit, Mockito  
-- **Otros:** Git, GitHub, GitLab, Bitbucket, Maven, Gradle  
+- **Mobile:** Flutter, React Native, Swift, Java (Android/Kotlin)  
+- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), TypeScript  
+- **Backend:** Node.js, PHP (Laravel), C#, Unity  
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes  
+- **Bases de datos:** MySQL, PostgreSQL, Oracle, MongoDB, Firebase  
+- **Testing & QA:** JUnit, PHPUnit, Mockito  
+- **Otros:** Git, GitHub, GitLab, Bitbucket, Agile (Scrum/Kanban)  
 
 ---
 
@@ -33,19 +34,21 @@
 
 ---
 
-## 🌐 Contacto & Redes Sociales
+## 🌐 Portafolio & Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yordyape/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=firefox&logoColor=white)](https://www.flipsnack.com/68d7f788b7a/yordy.html)  
 📧 **Email:** yordyape@gmail.com  
+📞 **Tel:** +1 (829) 772-9459  
 
 ---
 
 ## ⚡ Un poco más sobre mí
 
-- 📱 Experiencia en desarrollo móvil con **Flutter** y **React Native**  
-- ☁️ Interés en profundizar en **arquitecturas de microservicios y cloud computing**  
-- 🎮 Gamer en mi tiempo libre y entusiasta de la tecnología  
+- 📱 Experto en desarrollo **mobile cross-platform** (Flutter & React Native).  
+- ☁️ Experiencia en **cloud computing (AWS, Azure)** y despliegues escalables.  
+- 🎮 Gamer y entusiasta de la tecnología.  
+- 🌎 Colaboración con equipos internacionales en proyectos globales.  
 
 ---
 ✨ *Siempre aprendiendo, siempre construyendo.* 🚀
