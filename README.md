@@ -39,7 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yordyape/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=firefox&logoColor=white)](https://www.flipsnack.com/68d7f788b7a/yordy.html)  
 📧 **Email:** yordyape@gmail.com  
-📞 **Tel:** +1 (829) 772-9459  
+
 
 ---
 
